@@ -1,0 +1,23 @@
+.Dialog {
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+    padding: 10px;
+}
+
+.DialogsItem {
+    padding: 10px;
+}
+
+.Dialog img {
+    height: 30px;
+    width: 30px;
+    border-radius: 25px;
+}
+
+.Messages {
+    padding: 10px;
+}
+
+.item a {
+    color: brown;
+}
